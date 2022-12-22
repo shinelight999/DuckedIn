@@ -1,0 +1,23 @@
+@import "./heart.css";
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html {
+  scroll-behavior: smooth;
+}
+@media screen and (prefers-reduced-motion: reduce) {
+  html {
+    scroll-behavior: auto;
+  }
+}
+
+body {
+  min-width: 300px;
+}
+
+.required:after {
+  color: #e32;
+  content: " *";
+}
