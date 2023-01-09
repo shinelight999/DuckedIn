@@ -2,6 +2,14 @@
 
 The friendly Stevens way to view individuals.
 
+# Contributors
+
+- Mike DelGaudio
+- Sydney Cardy
+- Justin Wing
+- Kevin Ha
+- Connor Haaf
+
 ## How to run
 
 ### Option 1: Individual Localhost
